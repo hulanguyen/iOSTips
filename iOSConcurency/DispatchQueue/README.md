@@ -8,6 +8,7 @@
     * Serial queues: execute on task at time
     * Concurrent queues: execute multiple tasks at time.
 -  Execute on other threads
+-  Main Queue is a serial queue, and execute on main thread.
 
 ## Visualize : 
     
